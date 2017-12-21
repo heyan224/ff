@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/nali/MyApplication3/app/libs/BASE64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="f80edc977b5165ff7c451e1c6b94de9f25d7e41f">
+        <dex dex="/Users/nali/MyApplication3/app/build/intermediates/pre-dexed/debug/BASE64_1bf96c610fd08021e64a53b3c2165262c7152ced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/nali/MyApplication3/app/libs/google-collect-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.1"
+        sha1="a2437cd90ef0e7f0840645489f4226e73400d0dc">
+        <dex dex="/Users/nali/MyApplication3/app/build/intermediates/pre-dexed/debug/google-collect-1.0_d77915f6c82aa3541236a6fb10d10915a582db21.jar" />
+    </item>
+
+</items>
